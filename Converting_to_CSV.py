@@ -5,8 +5,8 @@ import numpy as np
 import pandas as pd
 
 # Set the directory paths
-data_dir = r'G:\University\Project_Intermship\An EEG Recordings Dataset for Mental Stress Detection\An EEG Recordings Dataset for Mental Stress Detection\clean data\Trier Mental Challenge Test (TMCT)'
-output_dir = r'G:\University\Project_Intermship\An EEG Recordings Dataset for Mental Stress Detection\An EEG Recordings Dataset for Mental Stress Detection\clean data\Trier Mental Challenge Test (TMCT)_csv'
+data_dir = ""
+output_dir = ""
 os.makedirs(output_dir, exist_ok=True)
 
 # Get a list of all .set files in the directory
