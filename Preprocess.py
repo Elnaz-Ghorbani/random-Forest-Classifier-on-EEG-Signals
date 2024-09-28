@@ -6,9 +6,9 @@ from sklearn.decomposition import PCA
 
 # Define the paths to the folders containing the EEG data
 folders = {
-    'complex_math': r'G:\University\Project_Intermship\An EEG Recordings Dataset for Mental Stress Detection\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Complex Mathematical Problem solving (CMPS)',
-    'horror': r'G:\University\Project_Intermship\An EEG Recordings Dataset for Mental Stress Detection\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Horrer Video Stimulation',
-    'mental_test': r'G:\University\Project_Intermship\An EEG Recordings Dataset for Mental Stress Detection\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Trier Mental Challenge Test (TMCT)'
+    'complex_math': "",
+    'horror': "",
+    'mental_test': ""
 }
 
 # Find the maximum sequence length
