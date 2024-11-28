@@ -10,9 +10,9 @@ import random
 
 # Define the paths to the folders containing the EEG data
 folders = {
-    'complex_math': r"G:\University\TELAB\EEG_Mental_Stress_Detection\EEG_Mental_Stress_Detection_1\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Complex Mathematical Problem solving (CMPS)",
-    'horror': r"G:\University\TELAB\EEG_Mental_Stress_Detection\EEG_Mental_Stress_Detection_1\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Horrer Video Stimulation",
-    'mental_test': r"G:\University\TELAB\EEG_Mental_Stress_Detection\EEG_Mental_Stress_Detection_1\An EEG Recordings Dataset for Mental Stress Detection\clean data\CSVs\Trier Mental Challenge Test (TMCT)"
+    'complex_math': "",
+    'horror': "",
+    'mental_test': ""
 }
 
 # Initialize lists to store the data and labels
